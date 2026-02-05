@@ -1,1 +1,1 @@
-console.log("hge")
+console.log("hge");
